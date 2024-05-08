@@ -24,7 +24,7 @@ const Projects = () => {
             </div> 
             
             <div className='flex flex-col w-full shadow-md p-4 my-4 rounded-lg shadow-gray-500 bg-white hover:scale-105 duration-200'>
-            <a href="https://ikal-sama.github.io/react-agency/"><img src={Appsdev1} alt="" className='rounded-md' /></a>
+            <a href='/'><img src={Appsdev1} alt="" className='rounded-md' /></a>
                 <h2 className='text-center text-2xl p-2 md:text-xl text-black font-bold'>Travel Booking Platform</h2>
                 <p className='text-sm text-black'>The Cordova Travel Guide is an online platform offering travelers detailed insights, recommendations, and practical advice to enhance their travel experiences in Cordova. It serves as a go-to resource for exploring attractions, accommodations, dining options, activities, local events, transportation, and other travel-related aspects in Cordova..</p>
                 <p className='text-l font-bold text-black'>Technology Use:</p>
@@ -32,7 +32,7 @@ const Projects = () => {
             </div> 
 
             <div className='flex flex-col w-full shadow-md p-4 my-4 rounded-lg shadow-gray-500 bg-white hover:scale-105 duration-200'>
-            <a href="https://ikal-sama.github.io/react-agency/"><img src={AGCOW1} alt="" className='rounded-md' /></a>
+            <a href='/'><img src={AGCOW1} alt="" className='rounded-md' /></a>
                 <h2 className='text-center text-2xl p-2 md:text-xl text-black font-bold'>Blog/Social Media Platform</h2>
                 <p className='text-sm text-black'>The church maintains a website that serves as an online hub for information about its mission, beliefs, leadership, ministries, events, and contact details The Almighty God Center of Worship (AGCW) is a spiritual community committed to honoring and glorifying God through prayer, worship, fellowship, and service. It provides a place of spiritual sanctuary and support for individuals seeking to deepen their faith and relationship with God.</p>
                 <p className='text-l font-bold text-black'>Technology Use:</p>
@@ -40,7 +40,7 @@ const Projects = () => {
             </div> 
 
             <div className='flex flex-col w-full shadow-md p-4 my-4 rounded-lg shadow-gray-500 bg-white hover:scale-105 duration-200'>
-            <a href="https://ikal-sama.github.io/react-agency/"><img src={Dental1} alt="" className='rounded-md' /></a>
+            <a href="/"><img src={Dental1} alt="" className='rounded-md' /></a>
                 <h2 className='text-center text-2xl p-2 md:text-xl text-black font-bold'>Online Heatlh Services Platform</h2>
                 <p className='text-sm text-black'>The Dental Clinic platform is a digital ecosystem tailored to meet the needs of dental clinics, practitioners, staff, and patients. It encompasses various software tools, applications, and services aimed at improving efficiency, patient care, and overall clinic management.</p>
                 <p className='text-l font-bold text-black'>Technology Use:</p>
